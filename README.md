@@ -1,5 +1,5 @@
 ### Hi there 👋,  Lamali Jeewanthi
-#### Design and Development
+#### Designer and Developer
 ![Design and Development](https://www.linkedin.com/in/lamali-jeewanthi-2b03951b9)
 
 I'm Lamali Jeewanthi from Sri Lanka,and I do  Design and Development. I really enjoy learning languages and frameworks.I also enjoy wireframing,UI,UX and Design in general.
